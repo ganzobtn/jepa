@@ -1,5 +1,5 @@
-torch>=2
-torchvision
+#torch>=2
+#torchvision
 pyyaml
 numpy
 opencv-python
