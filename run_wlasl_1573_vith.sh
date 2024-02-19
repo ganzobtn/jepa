@@ -1,2 +1,1 @@
-python -m evals.main --fname configs/evals/vith16_wlasl1573_16x2x3.yaml  --devices cuda:0 cuda:1 cuda:2 cuda:3
-
+python -m evals.main --fname configs/evals/vith16_wlasl1573_16x2x3_dgx.yaml  --devices cuda:3
